@@ -1,5 +1,5 @@
 # International-students-at-Wellesley
-Data science project exploring the international student community at Wellesley College. This repository contains two notebooks detailing the collection and analysis of two data sets involving international students at Wellesley College.
+Data science project exploring the international student community at Wellesley College. This repository contains two notebooks detailing the collection and analysis of two data sets surrounding international students at Wellesley College. This research uses international student data and alum data as primary sources, but the alum data set was not included in this repository due to privacy concerns.
 
 
 ### Project Motivation
